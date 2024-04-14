@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adwait Mishra</h1>
-<h3 align="center">Code for fun.</h3>
+<h3 align="center">Coding for fun.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
